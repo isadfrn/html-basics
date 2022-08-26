@@ -1,0 +1,10 @@
+{
+  "title": "HTML Basics",
+  "description": "Some HTML examples for teaching how to use tags like header, main, h1, h2, h3, dl, dt, and so on and so forth",
+  "techs": ["HTML", "CSS"],
+  "language": ["English"],
+  "status": "Done",
+  "licence": "MIT",
+  "github": "https://github.com/isadfrn/html-basics",
+  "url": ""
+}

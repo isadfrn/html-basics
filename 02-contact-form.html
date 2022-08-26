@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Form</title>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>Contact</legend>
+
+        <div>
+          <label for="subject">Subject</label>
+          <select id="subject" name="subject">
+            <option value="support">Support</option>
+            <option value="buy">Buy</option>
+            <option value="info">Info</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="name">Name</label>
+          <input id="name" name="name" type="text" placeholder="Your name" />
+        </div>
+
+        <div>
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" placeholder="email@domain.com" />
+        </div>
+
+        <div>
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="10" cols="50"></textarea>
+        </div>
+
+        <div>
+          <input id="agree" name="agree" type="checkbox" required />
+          <label for="agree">I agree to receive communications by email</label>
+        </div>
+
+        <input type="submit" placeholder="Send" />
+      </fieldset>
+    </form>
+  </body>
+</html>
