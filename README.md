@@ -4,7 +4,7 @@
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/html-basics?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isadfrn/html-basics?style=flat-square)
 
-![Some HTML pages](./assets/img/demo.gif)
+![](./assets/img/demo.gif)
 
 ## About
 
